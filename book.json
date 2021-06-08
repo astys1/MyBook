@@ -1,7 +1,9 @@
 [
   {
     "name": "test1",
-    "author": "test-1"
+    "author": "test-1", 
+    "url": "https://astys1.github.io/MyBook/book1.pdf",
+    "course": "Math"
   },
   {
     "name": "test2",
