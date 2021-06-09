@@ -1,4 +1,22 @@
 [
+   {
+    "name": "Learning Java",
+    "author": "Marc Loy", 
+    "url": "https://drive.google.com/file/d/12rEU3Kb4ieSrF_3i_hIFfZgQfTTB0jsY/view?usp=sharing",
+    "course": "Java"
+  },
+  {
+    "name": "Classic Computer Science Problems in Java",
+    "author": "David Kopec", 
+    "url": "https://drive.google.com/file/d/1UwEylhpgVSxg90fTjEpZuLve_RqtbYhj/view?usp=sharing",
+    "course": "Java"
+  },
+  {
+    "name": "Java Language Features",
+    "author": "Kishori Sharan", 
+    "url": "https://drive.google.com/file/d/1c0JV4ILKzXDWNxJasTEgx8HUyUpcluWw/view?usp=sharing",
+    "course": "Java"
+  },
   {
     "name": "The Python Workbook",
     "author": "Ben Stephenson", 
