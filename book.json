@@ -1,25 +1,26 @@
 [
   {
-    "name": "test1",
-    "author": "test-1", 
-    "url": "https://astys1.github.io/MyBook/book1.pdf",
-    "course": "Math"
+    "name": "The Python Workbook",
+    "author": "Ben Stephenson", 
+    "url": "https://drive.google.com/file/d/1i6ee667CsW8PquajK74yQHsUBRafGuHA/view?usp=sharing",
+    "course": "Python"
   },
   {
-    "name": "test2",
-    "author": "test-2"
+    "name": "Machine Learning for Time Series Forecasting with Python",
+    "author": "Francesca Lazzeri,", 
+    "url": "https://drive.google.com/file/d/19P2HE0VMX0k9yI4tf7TipCKZogfLTiPy/view?usp=sharing",
+    "course": "Python"
   },
   {
-    "name": "test3",
-    "author": "test-3"
+    "name": "Practices of the Python Pro",
+    "author": "Dane Hillard", 
+    "url": "https://drive.google.com/file/d/1ijKnEFXZCmXsPoj3j67xBUziddPKju1U/view?usp=sharing",
+    "course": "Python"
   },
   {
-    "name": "test4",
-    "author": "test-4"
-  },
-  {
-    "name": "test5",
-    "author": "test-5"
+    "name": "DevOps in Python",
+    "author": "Moshe Zadka", 
+    "url": "https://drive.google.com/file/d/1b8RfXN5q7PNMEYYNRKR6F3Qzq-yAtIG_/view?usp=sharing",
+    "course": "Python"
   }
-  
 ]
