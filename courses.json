@@ -1,7 +1,26 @@
 [
   {
-    "name": "test2",
+    "name": "C++",
     "img": "test-2"
   },
-
+  {
+    "name": "Css",
+    "img": "test-2"
+  },
+  {
+    "name": "C++",
+    "img": "test-2"
+  },
+  {
+    "name": "Html",
+    "img": "test-2"
+  },
+    {
+    "name": "Java",
+    "img": "test-2"
+  },
+    {
+    "name": "Python",
+    "img": "test-2"
+  },
 ]
