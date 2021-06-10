@@ -3,85 +3,99 @@
     "name": "Introduction to Programming with C++ for Engineers",
     "author": "Boguslaw Cyganek",
     "url": "https://drive.google.com/file/d/1RpCglMLoTd9Io2QBUiGJajN2m1tRmEe3/view?usp=sharing",
-    "course": "C++"
+    "course": "C++",
+    "img": "https://drive.google.com/file/d/1bxd0M8Gtem6e7T3S_t4zD5rKCceGv2n6/view?usp=sharing"
   },
   {
     "name": " Professional C++ ",
     "author": "Marc Gregoire",
     "url": "https://drive.google.com/file/d/1Vd2AAnhABdRn5QjZL1qToshwmtLe5vcn/view?usp=sharing",
-    "course": "C++"
+    "course": "C++",
+    "img": "https://drive.google.com/file/d/1AG_plvF6ill6G1PhDquourM_Ks5u5yL-/view?usp=sharing"
   },
   {
     "name": " Exploring C++20 The Programmer's Introduction to C++",
     "author": "Ray Lischner",
     "url": "https://drive.google.com/file/d/17agKYLZ8ClJJTWiDj1_seTSbRaYEkVee/view?usp=sharing",
-    "course": "C++"
+    "course": "C++",
+    "img": "https://drive.google.com/file/d/1AG_plvF6ill6G1PhDquourM_Ks5u5yL-/view?usp=sharing"
   },
   {
     "name": "CSS in Depth",
     "author": "Keith J. Grant",
     "url": "https://drive.google.com/file/d/1aJ4JUK9bzLjv-HvZpvdYKRnmQUjSbW_q/view?usp=sharing",
-    "course": "CSS"
+    "course": "CSS",
+    "img": "https://drive.google.com/file/d/1TmKhh4iksY-j4JnuSyJMa5kAbSsnWTes/view?usp=sharing"
   },
   {
     "name": "CSS The Missing Manual",
     "author": "David Sawyer McFarland",
     "url": "https://drive.google.com/file/d/1l9vu5F2SEX_rRXUm5LmcGp22bUcXGtcW/view?usp=sharing",
-    "course": "CSS"
+    "course": "CSS",
+    "img": "https://drive.google.com/file/d/1J6SBXGKzccKfsoCr3hpCMMFbPOWC7FoX/view?usp=sharing"
   },
   {
     "name": "Modern CSS",
     "author": "Joe Attardi",
     "url": "https://drive.google.com/file/d/1GJw9Uwo4VL4I2gr_YT49BquA1vDoJeV_/view?usp=sharing",
-    "course": "CSS"
+    "course": "CSS",
+    "img": "https://drive.google.com/file/d/1_H0eJJiSkbyRDox2o-4QKyuKuyKNESG4/view?usp=sharing"
   },
   {
     "name": "Practical Bootstrap",
     "author": "Panos Matsinopoulos",
     "url": "https://drive.google.com/file/d/1LC4uc-xmZKGX3HxT8DL2GY2NOeHX8jXi/view?usp=sharing",
-    "course": "CSS"
+    "course": "CSS",
+    "img": "https://drive.google.com/file/d/12nAZVrucfBzuEAymJOcsG5ZvyiJRCbTR/view?usp=sharing"
   },
   {
     "name": "Learning Web Design",
     "author": "Jennifer Niederst Robbins",
     "url": "https://drive.google.com/file/d/1yN6II4ktzxuOozW7liREKx-c5a-Q0Kc5/view?usp=sharing",
-    "course": "HTML"
+    "course": "HTML",
+    "img": "https://drive.google.com/file/d/1JPHEl8dn4hb9CU9bA9ofDEPp43YAo7fq/view?usp=sharing"
   },
    {
     "name": "Learning Java",
     "author": "Marc Loy", 
     "url": "https://drive.google.com/file/d/12rEU3Kb4ieSrF_3i_hIFfZgQfTTB0jsY/view?usp=sharing",
-    "course": "Java"
+    "course": "Java",
+    "img": "https://drive.google.com/file/d/1u4z6PwPVonrfV8WyP7pWm-GvSOYoYyet/view?usp=sharing"
   },
   {
     "name": "Classic Computer Science Problems in Java",
     "author": "David Kopec", 
     "url": "https://drive.google.com/file/d/1UwEylhpgVSxg90fTjEpZuLve_RqtbYhj/view?usp=sharing",
-    "course": "Java"
+    "course": "Java",
+    "img": "https://drive.google.com/file/d/1Ple6vboWU0ANhXM3_nO9HDaObcnpRPH5/view?usp=sharing"
   },
   {
     "name": "Java Language Features",
     "author": "Kishori Sharan", 
     "url": "https://drive.google.com/file/d/1c0JV4ILKzXDWNxJasTEgx8HUyUpcluWw/view?usp=sharing",
-    "course": "Java"
+    "course": "Java",
+    "img": "https://drive.google.com/file/d/151dGc9AKVHKuQKTjNYcmiZP6VZ_k0hK3/view?usp=sharing"
   },
   {
     "name": "The Python Workbook",
     "author": "Ben Stephenson", 
     "url": "https://drive.google.com/file/d/1i6ee667CsW8PquajK74yQHsUBRafGuHA/view?usp=sharing",
-    "course": "Python"
+    "course": "Python",
+    "img": "https://drive.google.com/file/d/15rqtbNNXKJFOIVCLQ5-kGjz3BxKrN03e/view?usp=sharing"
   },
   {
     "name": "Machine Learning for Time Series Forecasting with Python",
     "author": "Francesca Lazzeri", 
     "url": "https://drive.google.com/file/d/19P2HE0VMX0k9yI4tf7TipCKZogfLTiPy/view?usp=sharing",
-    "course": "Python"
+    "course": "Python",
+    "img": "https://drive.google.com/file/d/1ATMGGf8r6-xm99yX1RSmae6qC5zpdw9o/view?usp=sharing"
   },
   {
     "name": "Practices of the Python Pro",
     "author": "Dane Hillard", 
     "url": "https://drive.google.com/file/d/1ijKnEFXZCmXsPoj3j67xBUziddPKju1U/view?usp=sharing",
-    "course": "Python"
+    "course": "Python",
+    "img": "https://drive.google.com/file/d/1AQGHUijCp-fqYdi7YuMPXMUldoXO5YFy/view?usp=sharing"
   },
   {
     "name": "DevOps in Python",
