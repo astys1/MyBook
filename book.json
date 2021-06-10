@@ -1,4 +1,52 @@
 [
+     {
+    "name": "Introduction to Programming with C++ for Engineers",
+    "author": "Boguslaw Cyganek"
+    "url": "https://drive.google.com/drive/folders/1OxAkRg01NDVhH6leAdpPHIoc1xcQffv7"
+    "course": "C++"
+  },
+  {
+    "name": " Professional C++ ",
+    "author": "Marc Gregoire"
+    "url": "https://drive.google.com/drive/folders/1OxAkRg01NDVhH6leAdpPHIoc1xcQffv7"
+    "course": "C++"
+  },
+  {
+    "name": " Exploring C++20 The Programmer's Introduction to C++",
+    "author": "Ray Lischner"
+    "url": "https://drive.google.com/drive/folders/1OxAkRg01NDVhH6leAdpPHIoc1xcQffv7"
+    "course": "C++"
+  },
+  {
+    "name": "CSS in Depth",
+    "author": "Keith J. Grant"
+    "url": "https://drive.google.com/drive/folders/1n8aD2aTXw_0vDS5_rUGbJxphkd6jxS7k"
+    "course": "CSS"
+  },
+  {
+    "name": "CSS The Missing Manual",
+    "author": "David Sawyer McFarland"
+    "url": "https://drive.google.com/drive/folders/1n8aD2aTXw_0vDS5_rUGbJxphkd6jxS7k"
+    "course": "CSS"
+  },
+  {
+    "name": "Modern CSS Master the Key Concepts of CSS for Modern Web Development",
+    "author": "Joe Attardi"
+    "url": "https://drive.google.com/drive/folders/1n8aD2aTXw_0vDS5_rUGbJxphkd6jxS7k"
+    "course": "CSS"
+  },
+  {
+    "name": "Practical Bootstrap Learn to Develop Responsively",
+    "author": "Panos Matsinopoulos"
+    "url": "https://drive.google.com/drive/folders/1n8aD2aTXw_0vDS5_rUGbJxphkd6jxS7k"
+    "course": "CSS"
+  },
+  {
+    "name": "Learning Web Design",
+    "author": "Jennifer Niederst Robbins"
+    "url": "https://drive.google.com/drive/folders/1Zbh-6fT1fbZbR2bmiuYcGouIhWuQ8rE6"
+    "course": "HTML"
+  },
    {
     "name": "Learning Java",
     "author": "Marc Loy", 
