@@ -1,5 +1,19 @@
 [
   {
+    "name": "C/C++ в задачах и примерах",
+    "author": "Культин Н. Б",
+    "url": "http://inter.ptngu.com/books/Програмування/C_C%2B%2B%20в%20примерах%20и%20задачах.%20Н.Культин.pdf",
+    "course": "C++",
+    "img": "https://drive.google.com/file/d/1bxd0M8Gtem6e7T3S_t4zD5rKCceGv2n6/view?usp=sharing"
+  },
+   {
+    "name": "C++ для чайников",
+    "author": "Стефан Р. Дэвис",
+    "url": "http://inter.ptngu.com/books/Програмування/С%2B%2B%20для%20чайников.%20С.Дэвис.pdf",
+    "course": "C++",
+    "img": "https://drive.google.com/file/d/1bxd0M8Gtem6e7T3S_t4zD5rKCceGv2n6/view?usp=sharing"
+  },
+  {
     "name": "Python у прикладах і задачах. Частина 1.",
     "author": "Креневич А.П.",
     "url": "https://drive.google.com/file/d/1dqZ4ys44QzFWPL7_zxmhl5AzHdr5R5qp/view?usp=sharing",
