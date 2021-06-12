@@ -8,8 +8,8 @@
     "img": "https://drive.google.com/file/d/1Od9otWPlx776QekEz9eQBeF1AMEXIJKH/view?usp=sharing"
   },
     {
-    "name": "Java",
-    "img": "https://drive.google.com/file/d/1RDi_Op9V8s1LhOLsyTmwUmrVz2-FtDC3/view?usp=sharing"
+    "name": "HTML",
+    "img": "https://drive.google.com/file/d/1wR2jsclVdk8qozAv3Vt9pGQ1l14kO_10/view?usp=sharing"
   },
   {
     "name": "JavaScript",
@@ -22,5 +22,9 @@
   {
     "name": "HTML",
     "img": "https://drive.google.com/file/d/1wR2jsclVdk8qozAv3Vt9pGQ1l14kO_10/view?usp=sharing"
+  }
+  {
+    "name": "Java",
+    "img": "https://drive.google.com/file/d/1RDi_Op9V8s1LhOLsyTmwUmrVz2-FtDC3/view?usp=sharing"
   }
 ]
