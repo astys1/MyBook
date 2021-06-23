@@ -137,48 +137,48 @@
     "author": "Marc Loy", 
     "url": "https://drive.google.com/file/d/12rEU3Kb4ieSrF_3i_hIFfZgQfTTB0jsY/view?usp=sharing",
     "course": "Java",
-    "img": "https://drive.google.com/file/d/1u4z6PwPVonrfV8WyP7pWm-GvSOYoYyet/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/java1.jpg"
   },
   {
     "name": "Classic Computer Science Problems in Java",
     "author": "David Kopec", 
     "url": "https://drive.google.com/file/d/1UwEylhpgVSxg90fTjEpZuLve_RqtbYhj/view?usp=sharing",
     "course": "Java",
-    "img": "https://drive.google.com/file/d/1Ple6vboWU0ANhXM3_nO9HDaObcnpRPH5/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/java2.jpg"
   },
   {
     "name": "Java Language Features",
     "author": "Kishori Sharan", 
     "url": "https://drive.google.com/file/d/1c0JV4ILKzXDWNxJasTEgx8HUyUpcluWw/view?usp=sharing",
     "course": "Java",
-    "img": "https://drive.google.com/file/d/151dGc9AKVHKuQKTjNYcmiZP6VZ_k0hK3/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/java3.jpg"
   },
   {
     "name": "The Python Workbook",
     "author": "Ben Stephenson", 
     "url": "https://drive.google.com/file/d/1i6ee667CsW8PquajK74yQHsUBRafGuHA/view?usp=sharing",
     "course": "Python",
-    "img": "https://drive.google.com/file/d/15rqtbNNXKJFOIVCLQ5-kGjz3BxKrN03e/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/pt1.jpg"
   },
   {
     "name": "Machine Learning for Time Series Forecasting with Python",
     "author": "Francesca Lazzeri", 
     "url": "https://drive.google.com/file/d/19P2HE0VMX0k9yI4tf7TipCKZogfLTiPy/view?usp=sharing",
     "course": "Python",
-    "img": "https://drive.google.com/file/d/1ATMGGf8r6-xm99yX1RSmae6qC5zpdw9o/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/pt2.jpg"
   },
   {
     "name": "Practices of the Python Pro",
     "author": "Dane Hillard", 
     "url": "https://drive.google.com/file/d/1ijKnEFXZCmXsPoj3j67xBUziddPKju1U/view?usp=sharing",
     "course": "Python",
-    "img": "https://drive.google.com/file/d/1AQGHUijCp-fqYdi7YuMPXMUldoXO5YFy/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/pt3.jpg"
   },
   {
     "name": "DevOps in Python",
     "author": "Moshe Zadka", 
     "url": "https://drive.google.com/file/d/1b8RfXN5q7PNMEYYNRKR6F3Qzq-yAtIG_/view?usp=sharing",
     "course": "Python",
-    "img": "https://drive.google.com/file/d/1AG_plvF6ill6G1PhDquourM_Ks5u5yL-/view?usp=sharing"
+    "img": "https://astys1.github.io/MyBook/BIMG/pt4.jpg"
   }
 ]
